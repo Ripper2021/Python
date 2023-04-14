@@ -1,0 +1,7 @@
+ARTICULO	STOCK	  PRECIO_UNITARIO	FECHA_ULT_VENTA
+Pantalon	10		  10			01/01/2023
+Camiseta	15		  5			05/02/2023
+Medias	30		  3			10/02/2023
+Short		20		  20			15/02/2023
+Botines	10		  40			02/03/2023
+Chandal	15		  30			05/04/2023
