@@ -1,0 +1,33 @@
+MODELO DE EXAMEN N° 1:
+Parte teórica:
+¿Qué son los tipos de datos y por qué son importantes en Python?
+Explique brevemente cómo funcionan las variables en Python.
+¿Cuál es la diferencia entre una lista y una tupla en Python?
+¿Qué son los diccionarios en Python y cómo se accede a los valores almacenados en ellos?
+¿Qué son las sentencias condicionales y cómo se usan en Python?
+¿Qué son los bucles y cómo se usan en Python?
+¿Qué son las funciones y por qué son importantes en Python?
+Explique brevemente el concepto de clases y objetos en Python.
+¿Qué son las funciones de orden superior y cómo se usan en Python?
+¿Qué son las excepciones en Python y por qué son importantes?
+
+Parte Practica:
+Nos contrataron de la empresa Spotify para ayudarlos a la unificación de sus sistemas, a día de hoy tienen 2 sistemas que generan informacion
+pero ninguna forma de unificarlos, para ellos nos contrataron a nosotros. Debemos tomar la información que esta en el sistema A que contiene la
+siguiente informacion:
+- Artista
+- Cantidad de veces escuchado
+- Valor unitario de cada reproducción (por canción)
+
+Y el sistema B que genera información por pais:
+- Pais
+- Cantidad de oyentes
+- Cantidad de reproducciones
+
+La idea es que el sistema que generemos pueda unificar estos dos sistemas en uno solo, y tambien unificar las salidas en una sola. Ademas de esto
+el sistema tiene que poder indicar el "valor unitario total de reproducciones"  que es un calculo entre la Cantidad de veces escuchado *
+Valor unitario de cada reproducción
+
+ESTRUCTURA DEL PROGRAMA:
+- Implementación de clases
+- Implementación de funciones
