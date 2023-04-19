@@ -1,0 +1,12 @@
+Artista: Rosalia
+Cantidad de veces escuchado: 1000000
+Valor unitario de cada reproduccion: 0.20
+Artista: Artic Monkeys
+Cantidad de veces escuchado: 100000
+Valor unitario de cada reproduccion: 0.25
+Artista: Red Hot Chili Peppers
+Cantidad de veces escuchado: 150000
+Valor unitario de cada reproduccion: 0.50
+Artista: Led Zeppelin
+Cantidad de veces escuchado: 15000
+Valor unitario de cada reproduccion: 0.40

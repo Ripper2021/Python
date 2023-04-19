@@ -1,0 +1,9 @@
+Pais: España
+Cantidad de oyentes: 5000000
+Cantidad de reproducciones: 500000000
+Pais: Argentina
+Cantidad de oyentes: 4000000
+Cantidad de reproducciones: 500000
+Pais: Brasil
+Cantidad de oyentes: 60000000
+Cantidad de reproducciones: 60000000
